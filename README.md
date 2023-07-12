@@ -45,7 +45,7 @@ The scraped data is saved to an "item.csv" file.
 
 ## 2. Transformation and Visualization (Notebook):
 
-The data extracted in the "item.csv" file is loaded into a Jupyter Notebook for further processing and analysis.
+The data extracted in the "item.csv" file is loaded into Deep Note for further processing and analysis.
 Data cleaning steps are applied to remove null and duplicate values from the dataset.
 A new column called "total price" is created by combining relevant columns.
 The cleaned data is then saved to a new file named "items.csv".
